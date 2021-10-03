@@ -1,3 +1,4 @@
+```cpp
 #include <iostream>
 #include <stdio.h>      /* printf, scanf, puts, NULL */
 #include <stdlib.h>     /* srand, rand */
@@ -313,3 +314,4 @@ int main()
     return 0;
 
 }
+```
