@@ -12,7 +12,7 @@ int main()
 
     int valeur,reponse,reponse2,reponse3,vie;
     string rejouer;
-    //creation d'un nombre aleatoire entre 2 et 1
+    //creation d'un nombre aleatoire entre 4 et 1
     valeur = rand() % 4+ 1;
     vie = 2;
 
